@@ -1,3 +1,4 @@
+name: CI/CD Pipeline with Jira SCRUM-9
 name: CI/CD Pipeline
 
 on:
